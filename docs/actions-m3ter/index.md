@@ -38,9 +38,9 @@ Additional Context
 Include additional information that you think will be useful to the user here. For information that is specific to an individual mapping, please add that as a comment so that the Segment docs team can include it in the auto-generated content for that mapping.
 -->
 
-There are two prerequites to using this integration with your m3ter organization:
+There are two prerequisites to using this integration with your m3ter organization:
 
 1. A Meter with suitable configuration for your usage events must exist; see [https://www.m3ter.com/docs/guides/setting-up-usage-data-meters-and-aggregations](https://www.m3ter.com/docs/guides/setting-up-usage-data-meters-and-aggregations) for more information.
-2. A Service User with permission to submit usage must exist, and you should have the API credentials to hand.
+2. A [Service User](https://www.m3ter.com/docs/guides/authenticating-with-the-platform/service-authentication) with `measurements:upload` [permission](https://www.m3ter.com/docs/guides/organization-and-access-management/creating-and-managing-permissions) must exist, and you should have the API credentials to hand.
 
 <!-- TODO: some step-by-step of the segment config and field mappings here -->
