@@ -60,7 +60,7 @@
     "@segment/actions-core": "^3.62.1",
     "@types/node": "^18.11.15",
     "chalk": "^4.1.1",
-    "chokidar": "^3.5.1",
+    "chokidar": "^4.0.0",
     "dotenv": "^10.0.0",
     "ecs-logs-js": "^1.0.0",
     "execa": "^5.1.1",
